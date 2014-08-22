@@ -106,6 +106,7 @@ namespace CodeEval.Easy
                             sb.Append(string.Format("{0} ", n));
                         }
                     }
+
                     Console.WriteLine(sb.ToString().Trim());
                 }
 #if DEBUG
